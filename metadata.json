@@ -1,0 +1,5 @@
+{
+  "name": "Monthly Finance Tracker",
+  "description": "A simple application to track your monthly income and expenses. It provides a summary of your finances, allows you to add transactions, and visualizes your spending with a pie chart. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
